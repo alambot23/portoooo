@@ -1,5 +1,0 @@
-[providers]
-providers = ["php", "node"]
-
-[phases.setup]
-nixPkgs = ["...", "php84"]
