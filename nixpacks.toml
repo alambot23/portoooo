@@ -2,4 +2,4 @@
 providers = ["php", "node"]
 
 [phases.setup]
-nixPkgs = ["...", "php83"]
+nixPkgs = ["...", "php84"]
